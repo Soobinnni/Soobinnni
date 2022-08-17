@@ -1,4 +1,4 @@
-# Hi, I'm **someone** ㅤㅤ![프로필](https://user-images.githubusercontent.com/111328823/185057053-aa83ce05-af38-4008-b2d0-e9a3b4755d2f.png)ㅤㅤㅤ<sup>just starting out<sup/>🤳 <
+# Hi, I'm **someone** ㅤ![프로필](https://user-images.githubusercontent.com/111328823/185057053-aa83ce05-af38-4008-b2d0-e9a3b4755d2f.png)ㅤㅤ<sup>just starting out<sup/>🤳 <
 <br><br>
 ### I'm posting what I learned on my [blog](https://blog.naver.com/xpsxm225).<br><br>
 >MY CHALLENGES<br>
