@@ -8,7 +8,7 @@
 ___
 ## POSTING
 
-[![포스팅](https://user-images.githubusercontent.com/111328823/185082858-f089bf1f-139b-40e8-82a6-2a8b2c82c467.png)](https://blog.naver.com/xpsxm225/222849085904) [![포스팅](https://user-images.githubusercontent.com/111328823/185082858-f089bf1f-139b-40e8-82a6-2a8b2c82c467.png)](https://blog.naver.com/xpsxm225/222849320374) [![포스팅](https://user-images.githubusercontent.com/111328823/185082858-f089bf1f-139b-40e8-82a6-2a8b2c82c467.png)](https://blog.naver.com/xpsxm225/222850863602)
+[![화면 캡처](https://user-images.githubusercontent.com/111328823/186429337-1e1eef0e-c803-4b94-b203-1dc557f24b4b.png)](https://blog.naver.com/xpsxm225/222857182358) [![포스팅](https://user-images.githubusercontent.com/111328823/185082858-f089bf1f-139b-40e8-82a6-2a8b2c82c467.png)](https://blog.naver.com/xpsxm225/222849320374) [![포스팅](https://user-images.githubusercontent.com/111328823/185082858-f089bf1f-139b-40e8-82a6-2a8b2c82c467.png)](https://blog.naver.com/xpsxm225/222850863602)
 
 
 
