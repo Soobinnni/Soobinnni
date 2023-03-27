@@ -1,16 +1,25 @@
-<br><br>
-# ㅤㅤㅤㅤㅤHi, I'm **someone** <sup>just starting out<sup/>🤳 <br><br>
->**MY CHALLENGES** 
-- [x] 깃, 깃헙 간략하게 학습 및 실습 [✏️](https://blog.naver.com/xpsxm225/222849085904) [🖊️](https://blog.naver.com/xpsxm225/222849320374) [🖌️](https://blog.naver.com/xpsxm225/222850863602)
-- [ ] 30일 챌린지 <br><br><br><br>
-## ㅤㅤㅤㅤㅤㅤAnd <sup>my challenges and learning are posting on my [blog](https://blog.naver.com/xpsxm225)<sup/> <br><br>
-![포스팅](https://user-images.githubusercontent.com/111328823/185085553-b674d16d-bffa-43c3-b012-05a11c6571b5.png)<br><br><br>
-___
-## POSTING
+<h3>Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Soobin Kim who is dreaming of becoming a back-end developer.</h3>
+<h3>I'm interested in Java!</h3>
 
-[![화면 캡처](https://user-images.githubusercontent.com/111328823/186429337-1e1eef0e-c803-4b94-b203-1dc557f24b4b.png)](https://blog.naver.com/xpsxm225/222857182358) [![포스팅](https://user-images.githubusercontent.com/111328823/185082858-f089bf1f-139b-40e8-82a6-2a8b2c82c467.png)](https://blog.naver.com/xpsxm225/222849320374) [![포스팅](https://user-images.githubusercontent.com/111328823/185082858-f089bf1f-139b-40e8-82a6-2a8b2c82c467.png)](https://blog.naver.com/xpsxm225/222850863602)
+- 👨‍💻 All of my projects are available at [test.com](test.com)
 
+- 📫 How to reach me **xpsxm225@naver.com**
 
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 
-[more posting...](https://blog.naver.com/xpsxm225) <br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soobinnni&show_icons=true&locale=en&layout=compact" alt="soobinnni" /></p>
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
