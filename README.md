@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Soobinnni%20&fontSize=60&fontColor=FFFFFF" />
+
 <h3>Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Soobin Kim who is dreaming of becoming a back-end developer.</h3>
 <h3>I'm interested in Java!</h3>
 
