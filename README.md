@@ -47,9 +47,9 @@
 <p align="center">
   <i>💡Used at least once </i>
 </p>
-<table align="center">
+<table align="center" height="60px">
   <tr>
-    <td hieght="auto"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white"></td>
@@ -57,6 +57,6 @@
 </table>
 
 <br><br>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soobinnni&show_icons=true&locale=en&layout=compact" alt="soobinnni" />
-</p>
+</p> -->
