@@ -4,21 +4,24 @@
 
 
 
-<br><p align="center">제 이름은 김수빈이고, 백엔드를 공부하고 있어요!<br><!--
+<br><p align="center">제 이름은 :sparkles:김수빈:dizzy:이고, 백엔드를 공부하고 있어요!:smiley:<br><!--
 항상 배우려는 자세로 학습에 임하고 있습니다.<br>
 배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.</p>-->
+저는 꾸준함을 믿습니다.:muscle:
+<br>학습하고 성장하는 과정을 기록:pencil2:하고 있으며, 
+<br>함께 성장하며 좋은 코드를 만들어나갈 수 있는 기회를 기다리고 있습니다!:hearts:</p>  
 
 <br>
 
-<h3 align="center"><b>💌 Contacts 💌 </b></h3>
+<h3 align="center"><b>💌 Social 💌 </b></h3>
 <p align="center">
-  <a href="https://blog.naver.com/xpsxm225" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-6611F5?logo=Gatsby&logoColor=white" /></a>
-  <a href="mailto:xpsxm225@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a> 
+  <a href="https://blog.naver.com/xpsxm225" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?logo=Naver&logoColor=white" /></a>
+  <a href="mailto:xpsxm225@naver.com"><img src="https://img.shields.io/badge/Mail-black?style=flat&logo=Mail.Ru&logoColor=white&link=xpsxm225@naver.com"/></a> 
 </p>
 <br><br>
 
 <h3 align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>⚒️ Stacks & Tools ⚒️</Strong><br>
 </h3>
 <table align="center">
 <!--  
