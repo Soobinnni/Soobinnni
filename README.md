@@ -1,5 +1,6 @@
+<br><br>
 <h3>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">&nbsp;&nbsp;&nbsp;&nbsp;반갑습니다,</h3>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Soobinnni's%20GitHub&fontSize=60&descAlignY=10&fontColor=FF00FF" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Soobinnni's%20GitHub&fontSize=60&descAlignY=10&fontColor=00000" />
 
 
 
@@ -7,8 +8,7 @@
 항상 배우려는 자세로 학습에 임하고 있습니다.<br>
 배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.</p>-->
 
-<p align="left">
-</p>
+<br>
 
 <h3 align="center">📫 Contacts 📫</h3>
 <p align="center">
@@ -43,15 +43,20 @@
     </td>
   </tr>
 </table>
-
+<br>
 <p align="center">
-    💡Used at least once
+  <i>💡Used at least once </i>
 </p>
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
+<table align="center">
+  <tr>
+    <td hieght="auto"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white"></td>
+  <tr>
+</table>
+
+<br><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=soobinnni&show_icons=true&locale=en&layout=compact" alt="soobinnni" />
 </p>
-
-
