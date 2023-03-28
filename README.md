@@ -1,4 +1,4 @@
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=160&section=header" />
 <h3>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">&nbsp;&nbsp;&nbsp;&nbsp;반갑습니다,</h3>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Soobinnni's%20GitHub&fontSize=60&descAlignY=10&fontColor=00000" />
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<h3 align="center">📫 Contacts 📫</h3>
+<h3 align="center"><b>💌 Contacts 💌 </b></h3>
 <p align="center">
   <a href="https://blog.naver.com/xpsxm225" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-6611F5?logo=Gatsby&logoColor=white" /></a>
   <a href="mailto:xpsxm225@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a> 
@@ -60,3 +60,4 @@
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soobinnni&show_icons=true&locale=en&layout=compact" alt="soobinnni" />
 </p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
