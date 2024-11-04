@@ -15,9 +15,7 @@
 
 <h3 align="center"><b>💌 My Resume Page  💌 </b></h3>
 <p align="center">
-  
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsooobin.site%2F&up_message=sooobin.site&up_color=%23FF7D7D&logo=%E3%80%80&label=%E3%80%80">
-
+  <a href="https://sooobin.site" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsooobin.site%2F&up_message=sooobin.site&up_color=%23FF7D7D&logo=%E3%80%80&label=%E3%80%80"/></a> 
 </p>
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
