@@ -16,17 +16,8 @@
 **동시 요청 처리 환경**에서도 **데이터 정합성 유지**를 위해 어떤 구조에 집중하고 있습니다.
 
 
-
-## 　
-
-
-###  💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,aws)](https://skillicons.dev)
-
-###  📞 Contact
-<a href="mailto:xpsxm225@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-<a href="https://velog.io/@soobin_n_n_i/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-
 <br/>
 
-[![Soobinnni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobinnni)](https://github.com/Soobinnni/github-readme-stats)
+| <div> <h3>💻 Tech Stack</h3> <p>[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,aws)](https://skillicons.dev)</p> <h3>📞 Contact</h3> <p><a href="mailto:xpsxm225@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@soobin_n_n_i/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a></p> </div> | <div> <p>[![Soobinnni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobinnni)](https://github.com/Soobinnni/github-readme-stats)</p> </div> |
+|--|--|
+
