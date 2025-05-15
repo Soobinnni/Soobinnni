@@ -15,6 +15,8 @@
 **일관성 보장**을 위해 다양한 시도를 해왔으며,  
 **동시 요청 처리 환경**에서도 **데이터 정합성 유지**를 위해 어떤 구조에 집중하고 있습니다.
 
+
+
 ## 　
 
 
@@ -25,4 +27,6 @@
 <a href="mailto:xpsxm225@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://velog.io/@soobin_n_n_i/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 
-</div>
+<br/>
+
+[![Soobinnni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobinnni)](https://github.com/Soobinnni/github-readme-stats)
